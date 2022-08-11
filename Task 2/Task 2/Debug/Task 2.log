@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Embedded\Task 2\Task 2\Source.c(94,21): warning C4013: 'strlen' undefined; assuming extern returning int
+  Task 2.vcxproj -> D:\Embedded\Task 2\Debug\Task 2.exe
